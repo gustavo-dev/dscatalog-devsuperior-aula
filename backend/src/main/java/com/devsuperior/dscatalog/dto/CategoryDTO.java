@@ -27,7 +27,7 @@ public class CategoryDTO implements Serializable {
 		this.name = entity.getName();
 		this.created = entity.getCreatedAt();
 	}
-	
+
 	
 	public Long getId() {
 		return id;
