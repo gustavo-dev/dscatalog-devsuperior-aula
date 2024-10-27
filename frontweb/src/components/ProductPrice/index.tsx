@@ -6,6 +6,6 @@ const ProductPrice = () => {
       <span>R$</span>
       <h3>2.499,99</h3>
     </div>
-  )
-}
+  );
+};
 export default ProductPrice;
