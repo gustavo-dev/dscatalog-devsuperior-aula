@@ -19,10 +19,8 @@ const ProductDetails = () => {
               />
             </div>
             <div className="name-price-container">
-              <h1>
-                Nome do Produto
-                <ProductPrice price={2345.67} />
-              </h1>
+              <h1>Nome do Produto </h1>
+              <ProductPrice price={2345.67} />
             </div>
           </div>
           <div className="col-xl-6">
